@@ -1,6 +1,8 @@
 # Modmail Plugins
 
-A collection of Python extensions created for Discord Modmail bots, preserved as an early plugin-development project.
+A personal fork of [hyvnie/Modmail-Plugins](https://github.com/hyvnie/Modmail-Plugins), containing extensions for Discord Modmail bots.
+
+This repository preserves upstream plugin work and its original commit history. It is not presented as an original SimpleCaci project.
 
 ## Tech stack
 
@@ -23,4 +25,4 @@ Legacy educational project. These plugins target an older Modmail ecosystem and 
 - Consolidate dependencies and add command-level tests.
 - Review permission checks before deployment.
 
-Built by [SimpleCaci](https://github.com/SimpleCaci).
+Plugin authorship belongs to the original contributors recorded in the [commit history](https://github.com/SimpleCaci/Modmail-Plugins/commits/master/), including xTeen (officialteen). SimpleCaci maintains this fork and its documentation. No blanket license grant is added here.
